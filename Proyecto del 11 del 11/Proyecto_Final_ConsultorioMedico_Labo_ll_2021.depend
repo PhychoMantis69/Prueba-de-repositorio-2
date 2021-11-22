@@ -1,0 +1,1101 @@
+# depslib dependency file v1.0
+1634905165 source:c:\users\l.gomez\desktop\proyecto_final_consultoriomedico_labo_ll_2021\funcionesglobales.cpp
+	"FuncionesGlobales.h"
+	"Empleado.h"
+	<iostream>
+	<conio.h>
+	"string.h"
+
+1634903921 c:\users\l.gomez\desktop\proyecto_final_consultoriomedico_labo_ll_2021\funcionesglobales.h
+
+1634903921 c:\users\l.gomez\desktop\proyecto_final_consultoriomedico_labo_ll_2021\include\empleado.h
+	"Persona.h"
+	"Fecha.h"
+	"Hora.h"
+
+1634903921 c:\users\l.gomez\desktop\proyecto_final_consultoriomedico_labo_ll_2021\include\persona.h
+
+1634903921 c:\users\l.gomez\desktop\proyecto_final_consultoriomedico_labo_ll_2021\include\fecha.h
+
+1634903921 c:\users\l.gomez\desktop\proyecto_final_consultoriomedico_labo_ll_2021\include\hora.h
+
+1634904596 source:c:\users\l.gomez\desktop\proyecto_final_consultoriomedico_labo_ll_2021\main.cpp
+	<iostream>
+	"Direccion.h"
+	"Empleado.h"
+	"FacturaConsulta.h"
+	"Fecha.h"
+	"HistoriaClinica.h"
+	"Hora.h"
+	"Paciente.h"
+	"Persona.h"
+	"Turno.h"
+	"FuncionesGlobales.h"
+
+1634903921 c:\users\l.gomez\desktop\proyecto_final_consultoriomedico_labo_ll_2021\include\direccion.h
+
+1634903921 c:\users\l.gomez\desktop\proyecto_final_consultoriomedico_labo_ll_2021\include\facturaconsulta.h
+	"Fecha.h"
+
+1634903921 c:\users\l.gomez\desktop\proyecto_final_consultoriomedico_labo_ll_2021\include\historiaclinica.h
+	"Turno.h"
+	"Fecha.h"
+	"Hora.h"
+
+1634903921 c:\users\l.gomez\desktop\proyecto_final_consultoriomedico_labo_ll_2021\include\turno.h
+	"Fecha.h"
+	"Hora.h"
+
+1634903921 c:\users\l.gomez\desktop\proyecto_final_consultoriomedico_labo_ll_2021\include\paciente.h
+	"Persona.h"
+	"Direccion.h"
+
+1634904165 source:c:\users\l.gomez\desktop\proyecto_final_consultoriomedico_labo_ll_2021\src\direccion.cpp
+	"Direccion.h"
+	<iostream>
+	<stdio.h>
+	<wchar.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+
+1634904165 source:c:\users\l.gomez\desktop\proyecto_final_consultoriomedico_labo_ll_2021\src\empleado.cpp
+	"Empleado.h"
+	<iostream>
+	<cstring>
+
+1634904165 source:c:\users\l.gomez\desktop\proyecto_final_consultoriomedico_labo_ll_2021\src\facturaconsulta.cpp
+	"FacturaConsulta.h"
+	<iostream>
+
+1634904165 source:c:\users\l.gomez\desktop\proyecto_final_consultoriomedico_labo_ll_2021\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1634904165 source:c:\users\l.gomez\desktop\proyecto_final_consultoriomedico_labo_ll_2021\src\historiaclinica.cpp
+	"HistoriaClinica.h"
+	<iostream>
+	<cstring>
+
+1634904165 source:c:\users\l.gomez\desktop\proyecto_final_consultoriomedico_labo_ll_2021\src\hora.cpp
+	"Hora.h"
+	<iostream>
+
+1634904165 source:c:\users\l.gomez\desktop\proyecto_final_consultoriomedico_labo_ll_2021\src\persona.cpp
+	"Persona.h"
+	<iostream>
+	<cstring>
+
+1634904255 source:c:\users\l.gomez\desktop\proyecto_final_consultoriomedico_labo_ll_2021\src\turno.cpp
+	"Turno.h"
+	<iostream>
+	<ctime>
+
+1634904269 source:c:\users\l.gomez\desktop\proyecto_final_consultoriomedico_labo_ll_2021\src\paciente.cpp
+	"Paciente.h"
+	<iostream>
+	<cstring>
+
+1635160245 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks\funcionesglobales.cpp
+	"FuncionesGlobales.h"
+	"Empleado.h"
+	<iostream>
+	<conio.h>
+	"string.h"
+
+1634903921 c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks\funcionesglobales.h
+
+1634903921 c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks\include\empleado.h
+	"Persona.h"
+	"Fecha.h"
+	"Hora.h"
+
+1634903921 c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks\include\persona.h
+
+1634903921 c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks\include\fecha.h
+
+1634903921 c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks\include\hora.h
+
+1634904596 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks\main.cpp
+	<iostream>
+	"Direccion.h"
+	"Empleado.h"
+	"FacturaConsulta.h"
+	"Fecha.h"
+	"HistoriaClinica.h"
+	"Hora.h"
+	"Paciente.h"
+	"Persona.h"
+	"Turno.h"
+	"FuncionesGlobales.h"
+
+1634903921 c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks\include\direccion.h
+
+1634903921 c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks\include\facturaconsulta.h
+	"Fecha.h"
+
+1634903921 c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks\include\historiaclinica.h
+	"Turno.h"
+	"Fecha.h"
+	"Hora.h"
+
+1634903921 c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks\include\turno.h
+	"Fecha.h"
+	"Hora.h"
+
+1634903921 c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks\include\paciente.h
+	"Persona.h"
+	"Direccion.h"
+
+1634904165 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks\src\direccion.cpp
+	"Direccion.h"
+	<iostream>
+	<stdio.h>
+	<wchar.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+
+1634904165 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks\src\empleado.cpp
+	"Empleado.h"
+	<iostream>
+	<cstring>
+
+1634904165 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks\src\facturaconsulta.cpp
+	"FacturaConsulta.h"
+	<iostream>
+
+1634904165 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1634904165 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks\src\historiaclinica.cpp
+	"HistoriaClinica.h"
+	<iostream>
+	<cstring>
+
+1634904165 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks\src\hora.cpp
+	"Hora.h"
+	<iostream>
+
+1634904269 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks\src\paciente.cpp
+	"Paciente.h"
+	<iostream>
+	<cstring>
+
+1634904165 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks\src\persona.cpp
+	"Persona.h"
+	<iostream>
+	<cstring>
+
+1634904255 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks\src\turno.cpp
+	"Turno.h"
+	<iostream>
+	<ctime>
+
+1635161220 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks\src\cadena.cpp
+	"Cadena.h"
+	<iostream>
+	<cstring>
+
+1635161220 c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks\include\cadena.h
+
+1635161248 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks\funcionesglobalesdemenus.cpp
+	"FuncionesGlobalesDeMenus.h"
+	"Direccion.h"
+	"Empleado.h"
+	"FacturaConsulta.h"
+	"Fecha.h"
+	"HistoriaClinica.h"
+	"Hora.h"
+	"Paciente.h"
+	"Persona.h"
+	"Turno.h"
+	"Cadena.h"
+	<iostream>
+	<vector>
+	<cstring>
+
+1635161243 c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks\funcionesglobalesdemenus.h
+
+1635186031 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-25octubre\funcionesglobales.cpp
+	"FuncionesGlobales.h"
+	"FuncionesGlobalesDeMenus.h"
+	"Empleado.h"
+	<iostream>
+	<conio.h>
+	"string.h"
+
+1634903921 c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-25octubre\funcionesglobales.h
+
+1634903921 c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-25octubre\include\empleado.h
+	"Persona.h"
+	"Fecha.h"
+	"Hora.h"
+
+1634903921 c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-25octubre\include\persona.h
+
+1634903921 c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-25octubre\include\fecha.h
+
+1634903921 c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-25octubre\include\hora.h
+
+1635188554 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-25octubre\main.cpp
+	<iostream>
+	"Direccion.h"
+	"Empleado.h"
+	"FacturaConsulta.h"
+	"Fecha.h"
+	"HistoriaClinica.h"
+	"Hora.h"
+	"Paciente.h"
+	"Persona.h"
+	"Turno.h"
+	"FuncionesGlobales.h"
+
+1634903921 c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-25octubre\include\direccion.h
+
+1634903921 c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-25octubre\include\facturaconsulta.h
+	"Fecha.h"
+
+1634903921 c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-25octubre\include\historiaclinica.h
+	"Turno.h"
+	"Fecha.h"
+	"Hora.h"
+
+1634903921 c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-25octubre\include\turno.h
+	"Fecha.h"
+	"Hora.h"
+
+1634903921 c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-25octubre\include\paciente.h
+	"Persona.h"
+	"Direccion.h"
+
+1635161220 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-25octubre\src\cadena.cpp
+	"Cadena.h"
+	<iostream>
+	<cstring>
+
+1635161220 c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-25octubre\include\cadena.h
+
+1634904165 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-25octubre\src\direccion.cpp
+	"Direccion.h"
+	<iostream>
+	<stdio.h>
+	<wchar.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+
+1634904165 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-25octubre\src\empleado.cpp
+	"Empleado.h"
+	<iostream>
+	<cstring>
+
+1634904165 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-25octubre\src\facturaconsulta.cpp
+	"FacturaConsulta.h"
+	<iostream>
+
+1634904165 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-25octubre\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1634904165 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-25octubre\src\historiaclinica.cpp
+	"HistoriaClinica.h"
+	<iostream>
+	<cstring>
+
+1634904165 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-25octubre\src\hora.cpp
+	"Hora.h"
+	<iostream>
+
+1634904269 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-25octubre\src\paciente.cpp
+	"Paciente.h"
+	<iostream>
+	<cstring>
+
+1634904165 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-25octubre\src\persona.cpp
+	"Persona.h"
+	<iostream>
+	<cstring>
+
+1635187966 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-25octubre\src\turno.cpp
+	"Turno.h"
+	<iostream>
+	<ctime>
+
+1635188499 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-25octubre\funcionesglobalesdemenus.cpp
+	"FuncionesGlobalesDeMenus.h"
+	"Direccion.h"
+	"Empleado.h"
+	"FacturaConsulta.h"
+	"Fecha.h"
+	"HistoriaClinica.h"
+	"Hora.h"
+	"Paciente.h"
+	"Persona.h"
+	"Turno.h"
+	"Cadena.h"
+	<iostream>
+	<vector>
+	<cstring>
+
+1635161243 c:\users\l.gomez\desktop\proyecto final laboratorio ii\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-25octubre\funcionesglobalesdemenus.h
+
+1635188554 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\1-noviembre\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\main.cpp
+	<iostream>
+	"Direccion.h"
+	"Empleado.h"
+	"FacturaConsulta.h"
+	"Fecha.h"
+	"HistoriaClinica.h"
+	"Hora.h"
+	"Paciente.h"
+	"Persona.h"
+	"Turno.h"
+	"FuncionesGlobales.h"
+
+1636039120 c:\users\l.gomez\desktop\proyecto final laboratorio ii\1-noviembre\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\include\direccion.h
+
+1636039138 c:\users\l.gomez\desktop\proyecto final laboratorio ii\1-noviembre\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\include\empleado.h
+	"Persona.h"
+	"Fecha.h"
+	"Hora.h"
+	"HorarioEmpleado.h"
+	"Especialidad.h"
+
+1636039230 c:\users\l.gomez\desktop\proyecto final laboratorio ii\1-noviembre\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\include\persona.h
+
+1636039168 c:\users\l.gomez\desktop\proyecto final laboratorio ii\1-noviembre\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\include\fecha.h
+
+1636039200 c:\users\l.gomez\desktop\proyecto final laboratorio ii\1-noviembre\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\include\hora.h
+
+1636039793 c:\users\l.gomez\desktop\proyecto final laboratorio ii\1-noviembre\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\include\horarioempleado.h
+	"Hora.h"
+
+1636039622 c:\users\l.gomez\desktop\proyecto final laboratorio ii\1-noviembre\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\include\especialidad.h
+
+1636039156 c:\users\l.gomez\desktop\proyecto final laboratorio ii\1-noviembre\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\include\facturaconsulta.h
+	"Fecha.h"
+
+1636039187 c:\users\l.gomez\desktop\proyecto final laboratorio ii\1-noviembre\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\include\historiaclinica.h
+	"Turno.h"
+	"Fecha.h"
+	"Hora.h"
+
+1636039245 c:\users\l.gomez\desktop\proyecto final laboratorio ii\1-noviembre\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\include\turno.h
+	"Fecha_Hora.h"
+
+1636039673 c:\users\l.gomez\desktop\proyecto final laboratorio ii\1-noviembre\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\include\fecha_hora.h
+	"Fecha.h"
+	"Hora.h"
+
+1636039217 c:\users\l.gomez\desktop\proyecto final laboratorio ii\1-noviembre\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\include\paciente.h
+	"Persona.h"
+	"Direccion.h"
+
+1636039448 c:\users\l.gomez\desktop\proyecto final laboratorio ii\1-noviembre\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\funcionesglobales.h
+
+1636039263 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\1-noviembre\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\src\cadena.cpp
+	"Cadena.h"
+	<iostream>
+	<cstring>
+
+1636039106 c:\users\l.gomez\desktop\proyecto final laboratorio ii\1-noviembre\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\include\cadena.h
+
+1636039423 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\1-noviembre\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\funcionesglobales.cpp
+	"FuncionesGlobales.h"
+	"FuncionesGlobalesDeMenus.h"
+	"Empleado.h"
+	<iostream>
+	<conio.h>
+	"string.h"
+
+1635161243 c:\users\l.gomez\desktop\proyecto final laboratorio ii\1-noviembre\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\funcionesglobalesdemenus.h
+
+1636039278 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\1-noviembre\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\src\direccion.cpp
+	"Direccion.h"
+	<iostream>
+	<stdio.h>
+	<wchar.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+
+1636039293 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\1-noviembre\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\src\empleado.cpp
+	"Empleado.h"
+	<iostream>
+	<cstring>
+
+1636039622 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\1-noviembre\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\src\especialidad.cpp
+	"Especialidad.h"
+	<iostream>
+	<cstring>
+
+1636039313 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\1-noviembre\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\src\facturaconsulta.cpp
+	"FacturaConsulta.h"
+	<iostream>
+
+1636039328 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\1-noviembre\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+	<ctime>
+
+1636039673 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\1-noviembre\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\src\fecha_hora.cpp
+	"Fecha_Hora.h"
+	<cstring>
+	<iostream>
+
+1636039345 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\1-noviembre\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\src\historiaclinica.cpp
+	"HistoriaClinica.h"
+	<iostream>
+	<cstring>
+
+1636039357 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\1-noviembre\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\src\hora.cpp
+	"Hora.h"
+	<iostream>
+
+1636039741 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\1-noviembre\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\src\horarioempleado.cpp
+	"HorarioEmpleado.h"
+	<iostream>
+	<cstring>
+
+1636039372 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\1-noviembre\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\src\paciente.cpp
+	"Paciente.h"
+	<iostream>
+	<cstring>
+
+1636039384 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\1-noviembre\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\src\persona.cpp
+	"Persona.h"
+	<iostream>
+	<cstring>
+
+1636039399 source:c:\users\l.gomez\desktop\proyecto final laboratorio ii\1-noviembre\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\src\turno.cpp
+	"Turno.h"
+	<iostream>
+	<ctime>
+
+1636151918 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\funcionesglobales.cpp
+	"FuncionesGlobales.h"
+	"FuncionesGlobalesDeMenus.h"
+	"Empleado.h"
+	<iostream>
+	<conio.h>
+	"string.h"
+
+1636039448 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\funcionesglobales.h
+
+1636152138 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\funcionesglobalesdemenus.h
+
+1636039138 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\include\empleado.h
+	"Persona.h"
+	"Fecha.h"
+	"Hora.h"
+	"HorarioEmpleado.h"
+	"Especialidad.h"
+
+1636039230 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\include\persona.h
+
+1636039168 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\include\fecha.h
+
+1636039200 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\include\hora.h
+
+1636039793 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\include\horarioempleado.h
+	"Hora.h"
+
+1636039622 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\include\especialidad.h
+
+1636152733 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\funcionesglobalesdemenus.cpp
+	"FuncionesGlobalesDeMenus.h"
+	"Direccion.h"
+	"Empleado.h"
+	"FacturaConsulta.h"
+	"Fecha.h"
+	"Fecha_Hora.h"
+	"HistoriaClinica.h"
+	"Hora.h"
+	"Paciente.h"
+	"Persona.h"
+	"Turno.h"
+	"Cadena.h"
+	<iostream>
+	<vector>
+	<cstring>
+	<ctime>
+	<fstream>
+
+1636039120 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\include\direccion.h
+
+1636039156 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\include\facturaconsulta.h
+	"Fecha.h"
+
+1636039673 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\include\fecha_hora.h
+	"Fecha.h"
+	"Hora.h"
+
+1636039187 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\include\historiaclinica.h
+	"Turno.h"
+	"Fecha.h"
+	"Hora.h"
+
+1636039245 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\include\turno.h
+	"Fecha_Hora.h"
+
+1636039217 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\include\paciente.h
+	"Persona.h"
+	"Direccion.h"
+
+1636039106 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\include\cadena.h
+
+1636134129 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\main.cpp
+	<iostream>
+	"Direccion.h"
+	"Empleado.h"
+	"FacturaConsulta.h"
+	"Fecha.h"
+	"HistoriaClinica.h"
+	"Hora.h"
+	"Paciente.h"
+	"Persona.h"
+	"Turno.h"
+	"FuncionesGlobales.h"
+	<string.h>
+
+1636039263 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\src\cadena.cpp
+	"Cadena.h"
+	<iostream>
+	<cstring>
+
+1636039278 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\src\direccion.cpp
+	"Direccion.h"
+	<iostream>
+	<stdio.h>
+	<wchar.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+
+1636039293 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\src\empleado.cpp
+	"Empleado.h"
+	<iostream>
+	<cstring>
+
+1636039622 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\src\especialidad.cpp
+	"Especialidad.h"
+	<iostream>
+	<cstring>
+
+1636039313 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\src\facturaconsulta.cpp
+	"FacturaConsulta.h"
+	<iostream>
+
+1636039328 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+	<ctime>
+
+1636039673 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\src\fecha_hora.cpp
+	"Fecha_Hora.h"
+	<cstring>
+	<iostream>
+
+1636039345 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\src\historiaclinica.cpp
+	"HistoriaClinica.h"
+	<iostream>
+	<cstring>
+
+1636039357 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\src\hora.cpp
+	"Hora.h"
+	<iostream>
+
+1636039741 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\src\horarioempleado.cpp
+	"HorarioEmpleado.h"
+	<iostream>
+	<cstring>
+
+1636039372 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\src\paciente.cpp
+	"Paciente.h"
+	<iostream>
+	<cstring>
+
+1636039384 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\src\persona.cpp
+	"Persona.h"
+	<iostream>
+	<cstring>
+
+1636039399 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto_final_consultoriomedico_labo_ll_2021_codeblocks-4noviembre\src\turno.cpp
+	"Turno.h"
+	<iostream>
+	<ctime>
+
+1636660830 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\funcionesglobales.cpp
+	"FuncionesGlobales.h"
+	"FuncionesGlobalesDeMenus.h"
+	"Empleado.h"
+	<iostream>
+	<conio.h>
+	"string.h"
+
+1636488916 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\funcionesglobales.h
+
+1636152138 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\funcionesglobalesdemenus.h
+
+1636039138 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\include\empleado.h
+	"Persona.h"
+	"Fecha.h"
+	"Hora.h"
+	"HorarioEmpleado.h"
+	"Especialidad.h"
+
+1636576782 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\include\persona.h
+
+1636039168 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\include\fecha.h
+
+1636039200 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\include\hora.h
+
+1636039793 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\include\horarioempleado.h
+	"Hora.h"
+
+1636039622 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\include\especialidad.h
+
+1636661959 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\main.cpp
+	<iostream>
+	"Direccion.h"
+	"Empleado.h"
+	"FacturaConsulta.h"
+	"Fecha.h"
+	"HistoriaClinica.h"
+	"Hora.h"
+	"Paciente.h"
+	"Persona.h"
+	"Turno.h"
+	"FuncionesGlobales.h"
+	<string.h>
+	"FuncionesGlobalesDeMenus.h"
+
+1636039120 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\include\direccion.h
+
+1636039156 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\include\facturaconsulta.h
+	"Fecha.h"
+
+1636039187 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\include\historiaclinica.h
+	"Turno.h"
+	"Fecha.h"
+	"Hora.h"
+
+1636039245 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\include\turno.h
+	"Fecha_Hora.h"
+
+1636039673 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\include\fecha_hora.h
+	"Fecha.h"
+	"Hora.h"
+
+1636039217 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\include\paciente.h
+	"Persona.h"
+	"Direccion.h"
+
+1636039263 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\src\cadena.cpp
+	"Cadena.h"
+	<iostream>
+	<cstring>
+
+1636039106 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\include\cadena.h
+
+1636039278 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\src\direccion.cpp
+	"Direccion.h"
+	<iostream>
+	<stdio.h>
+	<wchar.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+
+1636039293 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\src\empleado.cpp
+	"Empleado.h"
+	<iostream>
+	<cstring>
+
+1636039622 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\src\especialidad.cpp
+	"Especialidad.h"
+	<iostream>
+	<cstring>
+
+1636039313 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\src\facturaconsulta.cpp
+	"FacturaConsulta.h"
+	<iostream>
+
+1636039328 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+	<ctime>
+
+1636039673 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\src\fecha_hora.cpp
+	"Fecha_Hora.h"
+	<cstring>
+	<iostream>
+
+1636039345 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\src\historiaclinica.cpp
+	"HistoriaClinica.h"
+	<iostream>
+	<cstring>
+
+1636039357 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\src\hora.cpp
+	"Hora.h"
+	<iostream>
+
+1636039741 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\src\horarioempleado.cpp
+	"HorarioEmpleado.h"
+	<iostream>
+	<cstring>
+
+1636039372 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\src\paciente.cpp
+	"Paciente.h"
+	<iostream>
+	<cstring>
+
+1636578694 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\src\persona.cpp
+	"Persona.h"
+	<iostream>
+	<cstring>
+
+1636039399 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\src\turno.cpp
+	"Turno.h"
+	<iostream>
+	<ctime>
+
+1636661445 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 4 del 11\proyecto del 6 del 11\funcionesglobalesdemenus.cpp
+	"FuncionesGlobalesDeMenus.h"
+	"Direccion.h"
+	"Empleado.h"
+	"FacturaConsulta.h"
+	"Fecha.h"
+	"Fecha_Hora.h"
+	"HistoriaClinica.h"
+	"Hora.h"
+	"Paciente.h"
+	"Persona.h"
+	"Turno.h"
+	"Cadena.h"
+	<iostream>
+	<vector>
+	<cstring>
+	<ctime>
+	<fstream>
+
+1636660830 source:c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\funcionesglobales.cpp
+	"FuncionesGlobales.h"
+	"FuncionesGlobalesDeMenus.h"
+	"Empleado.h"
+	<iostream>
+	<conio.h>
+	"string.h"
+
+1636488916 c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\funcionesglobales.h
+
+1636152138 c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\funcionesglobalesdemenus.h
+
+1636039138 c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\include\empleado.h
+	"Persona.h"
+	"Fecha.h"
+	"Hora.h"
+	"HorarioEmpleado.h"
+	"Especialidad.h"
+
+1636576782 c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\include\persona.h
+
+1636663340 c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\include\fecha.h
+
+1636039200 c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\include\hora.h
+
+1636663905 c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\include\horarioempleado.h
+	"Hora.h"
+	"../FuncionesGlobales.h"
+
+1636039622 c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\include\especialidad.h
+
+1636662061 source:c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\main.cpp
+	<iostream>
+	"Direccion.h"
+	"Empleado.h"
+	"FacturaConsulta.h"
+	"Fecha.h"
+	"HistoriaClinica.h"
+	"Hora.h"
+	"Paciente.h"
+	"Persona.h"
+	"Turno.h"
+	"FuncionesGlobales.h"
+	<string.h>
+	"FuncionesGlobalesDeMenus.h"
+
+1636663217 c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\include\direccion.h
+
+1636039156 c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\include\facturaconsulta.h
+	"Fecha.h"
+
+1636663437 c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\include\historiaclinica.h
+	"Turno.h"
+	"Fecha.h"
+	"Hora.h"
+
+1636663675 c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\include\turno.h
+	"Fecha_Hora.h"
+
+1636663382 c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\include\fecha_hora.h
+	"Fecha.h"
+	"Hora.h"
+
+1636663603 c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\include\paciente.h
+	"Persona.h"
+	"Direccion.h"
+
+1636039293 source:c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\src\empleado.cpp
+	"Empleado.h"
+	<iostream>
+	<cstring>
+
+1636039622 source:c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\src\especialidad.cpp
+	"Especialidad.h"
+	<iostream>
+	<cstring>
+
+1636578694 source:c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\src\persona.cpp
+	"Persona.h"
+	<iostream>
+	<cstring>
+
+1636663217 source:c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\src\cadena.cpp
+	"Cadena.h"
+	<iostream>
+	<cstring>
+
+1636663217 c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\include\cadena.h
+
+1636663217 source:c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\src\direccion.cpp
+	"Direccion.h"
+	<iostream>
+	<stdio.h>
+	<wchar.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+
+1636663325 source:c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\src\fecha.cpp
+	"Fecha.h"
+	"Cadena.h"
+	<ctime>
+	<conio.h>
+	<dos.h>
+	<stdio.h>
+	<iostream>
+
+1636663978 source:c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\funcionesglobalesdemenus.cpp
+	"FuncionesGlobalesDeMenus.h"
+	"Direccion.h"
+	"Empleado.h"
+	"FacturaConsulta.h"
+	"Fecha.h"
+	"Fecha_Hora.h"
+	"HistoriaClinica.h"
+	"Hora.h"
+	"Paciente.h"
+	"Persona.h"
+	"Turno.h"
+	"Cadena.h"
+	<iostream>
+	<vector>
+	<cstring>
+	<ctime>
+	<fstream>
+
+1636663382 source:c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\src\fecha_hora.cpp
+	"Fecha_Hora.h"
+	<cstring>
+	<iostream>
+
+1636663413 source:c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\src\historiaclinica.cpp
+	"HistoriaClinica.h"
+	<iostream>
+	<cstring>
+
+1636663490 source:c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\src\hora.cpp
+	"Hora.h"
+	<iostream>
+
+1636663490 source:c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\src\horarioempleado.cpp
+	"HorarioEmpleado.h"
+	<iostream>
+	<cstring>
+
+1636663603 source:c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\src\paciente.cpp
+	"Paciente.h"
+	<iostream>
+	<cstring>
+
+1636663675 source:c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\src\turno.cpp
+	"Turno.h"
+	<iostream>
+	<ctime>
+
+1636663987 source:c:\users\l.gomez\downloads\proyecto del 6 del 11\proyecto del 6 del 11\src\facturaconsulta.cpp
+	"FacturaConsulta.h"
+	<iostream>
+
+1637545700 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\funcionesglobales.cpp
+	"FuncionesGlobales.h"
+	"FuncionesGlobalesDeMenus.h"
+	"Empleado.h"
+	<iostream>
+	<conio.h>
+	"string.h"
+
+1637545700 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\funcionesglobales.h
+
+1636152138 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\funcionesglobalesdemenus.h
+
+1637437138 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\include\empleado.h
+	"Persona.h"
+	"Fecha.h"
+	"Hora.h"
+	"HorarioEmpleado.h"
+	"Especialidad.h"
+
+1636576782 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\include\persona.h
+
+1637266770 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\include\fecha.h
+
+1636039200 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\include\hora.h
+
+1636663905 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\include\horarioempleado.h
+	"Hora.h"
+	"../FuncionesGlobales.h"
+
+1637437214 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\include\especialidad.h
+
+1637551345 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\funcionesglobalesdemenus.cpp
+	"FuncionesGlobalesDeMenus.h"
+	"Direccion.h"
+	"Empleado.h"
+	"FacturaConsulta.h"
+	"Fecha.h"
+	"Fecha_Hora.h"
+	"HistoriaClinica.h"
+	"Hora.h"
+	"Paciente.h"
+	"Persona.h"
+	"Turno.h"
+	"Cadena.h"
+	<iostream>
+	<vector>
+	<cstring>
+	<ctime>
+	<fstream>
+
+1636663217 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\include\direccion.h
+
+1637094233 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\include\facturaconsulta.h
+	"Fecha.h"
+
+1636663382 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\include\fecha_hora.h
+	"Fecha.h"
+	"Hora.h"
+
+1636663437 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\include\historiaclinica.h
+	"Turno.h"
+	"Fecha.h"
+	"Hora.h"
+
+1636663675 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\include\turno.h
+	"Fecha_Hora.h"
+
+1636663603 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\include\paciente.h
+	"Persona.h"
+	"Direccion.h"
+
+1636663217 c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\include\cadena.h
+
+1637551696 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\main.cpp
+	<iostream>
+	"Direccion.h"
+	"Empleado.h"
+	"FacturaConsulta.h"
+	"Fecha.h"
+	"HistoriaClinica.h"
+	"Hora.h"
+	"Paciente.h"
+	"Persona.h"
+	"Turno.h"
+	"FuncionesGlobales.h"
+	<string.h>
+	"FuncionesGlobalesDeMenus.h"
+
+1636663217 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\src\cadena.cpp
+	"Cadena.h"
+	<iostream>
+	<cstring>
+
+1636663217 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\src\direccion.cpp
+	"Direccion.h"
+	<iostream>
+	<stdio.h>
+	<wchar.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+
+1636039293 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\src\empleado.cpp
+	"Empleado.h"
+	<iostream>
+	<cstring>
+
+1636039622 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\src\especialidad.cpp
+	"Especialidad.h"
+	<iostream>
+	<cstring>
+
+1637094304 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\src\facturaconsulta.cpp
+	"FacturaConsulta.h"
+	<iostream>
+
+1637550932 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\src\fecha.cpp
+	"Fecha.h"
+	"Cadena.h"
+	<ctime>
+	<conio.h>
+	<dos.h>
+	<stdio.h>
+	<iostream>
+
+1636663382 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\src\fecha_hora.cpp
+	"Fecha_Hora.h"
+	<cstring>
+	<iostream>
+
+1636663413 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\src\historiaclinica.cpp
+	"HistoriaClinica.h"
+	<iostream>
+	<cstring>
+
+1636663490 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\src\hora.cpp
+	"Hora.h"
+	<iostream>
+
+1636663490 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\src\horarioempleado.cpp
+	"HorarioEmpleado.h"
+	<iostream>
+	<cstring>
+
+1636663603 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\src\paciente.cpp
+	"Paciente.h"
+	<iostream>
+	<cstring>
+
+1636578694 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\src\persona.cpp
+	"Persona.h"
+	<iostream>
+	<cstring>
+
+1636663675 source:c:\users\tobia\desktop\cosas de la facu 2\laboratorio 2\proyecto del 11 del 11\src\turno.cpp
+	"Turno.h"
+	<iostream>
+	<ctime>
+
